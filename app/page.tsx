@@ -88,7 +88,7 @@ export default function CSEResources() {
                       <BookOpen className="h-5 w-5 text-primary" />
                       {subject.name}
                     </CardTitle>
-                    <CardDescription>Complete video lectures</CardDescription>
+                    <CardDescription>Complete video solution</CardDescription>
                   </CardHeader>
                   <CardContent>
                     <Link href={subject.playlist} target="_blank">
